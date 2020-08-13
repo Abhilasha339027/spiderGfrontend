@@ -26,4 +26,15 @@
       margin-top: 20px;
     }
   }
-  
+  .About{
+    display: inline-block;
+    border: 1px solid #eee;
+    box-shadow: 0 2px 2px #ccc;
+    width: 800px;
+    background-color:rgb(186, 229, 235);
+    padding: 30px;
+    text-align:center ;
+}
+.spacer{
+    margin-left: 50px;
+}
