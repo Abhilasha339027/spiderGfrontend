@@ -145,14 +145,17 @@ iframe{
 }
 #two{
   border-radius: 200;
-  height:10vw;
-  width: 1.5vw;
+  height:6vw;
+  margin-top: 2vw;
+  width: 1vw;
+  margin-left: 6vw;
 }
 #one{
   height: 6vw;
-  width: 2.5vw !important;
-  margin-top: 5vw;
+  width: 1vw !important;
+  margin-top: 2vw;
   border-radius: 250;
+  margin-left: 6vw;
 }
 
 #store{
